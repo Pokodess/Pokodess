@@ -6,10 +6,14 @@
 My name is *Ewan*.
 
 📚 I'm a student in France. I will do my second year of preparation classes for engineering exams.
+
 🌻I'm currently learning how to code and how to be a good leader.
+
 😁 My goal is to start my own company and to be able to travel the world while being a source of inspiration for other young people who have plenty of dreams in their head.
 
+
 📫 You can contact me on Linkedin or ewan.vrj@gmail.com
+
 
 _I wish you a wonderful day !_
 <!--
